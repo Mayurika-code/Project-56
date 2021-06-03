@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(pink, lightblue,lightgreen);
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+}
+
+img{
+    width: 500;
+    border-radius: 10%;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 40px;
+}
+
+.image section{
+    display: flex;
+    justify-content: center;
+}
+
+.section style{
+    margin-right: 25px;
+    margin-right: 25px;
+    background-color: antiquewhite;
+}
